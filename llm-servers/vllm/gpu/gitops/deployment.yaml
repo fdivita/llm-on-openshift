@@ -53,7 +53,7 @@ spec:
               value: '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'
           args: [
             "--model",
-            "mistralai/Mistral-7B-Instruct-v0.3",
+            "mistralai/Mistral-7B-Instruct-v0.2",
             "--download-dir",
             "/models-cache",
             "--dtype", "float16",
